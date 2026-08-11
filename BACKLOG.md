@@ -9,9 +9,12 @@
 - [x] Widget de noticias IA con filtros (español / Hacker News)
 - [x] Pipeline de noticias: `scripts/fetch_news.py` (stdlib) + GitHub Action cada 6 h → `data/news.json`
 - [x] Deploy en GitHub Pages
+- [x] V2 — Cielo vivo: fondo que interpola colores según la hora real (amanecer/día/atardecer/noche), sol/luna en arco, estrellas con parpadeo de noche
+- [x] V2 — Clima real vía Open-Meteo (sin API key): geolocalización con fallback a Lima, icono + temperatura + descripción
+- [x] Rediseño: tipografía VT323 (reloj LCD gigante con glow) + IBM Plex Sans/Mono, tarjetas glass con blur, saludo por franja horaria, prefers-reduced-motion respetado
+- [x] Cache-busting en assets (?v=2)
 
 ## Pendiente
-- [ ] V2: fondos dinámicos según hora del día y meteorología (Open-Meteo, sin API key)
 - [ ] Widget de gasto/uso de suscripciones IA (registro manual en localStorage; no hay API pública)
 - [ ] Drag & drop táctil en el kanban (además de los botones ◀▶)
 - [ ] Más fuentes de noticias (Reddit r/artificial vía RSS, blogs de labs de IA) y CSV junto al JSON

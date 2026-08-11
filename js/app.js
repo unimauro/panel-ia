@@ -1,8 +1,9 @@
-/* Panel IA — dashboard personal estático. Sin frameworks, sin backend:
-   todo el estado del usuario vive en localStorage. */
+/* Panel IA — dashboard personal estático con cielo vivo.
+   Sin frameworks ni backend: el estado del usuario vive en localStorage. */
 "use strict";
 
 const $ = (id) => document.getElementById(id);
+const reducedMotion = !!(window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches);
 const store = {
   get(k, fallback) {
     try { const v = localStorage.getItem("panelia:" + k); return v ? JSON.parse(v) : fallback; }
@@ -11,10 +12,135 @@ const store = {
   set(k, v) { localStorage.setItem("panelia:" + k, JSON.stringify(v)); },
 };
 
+/* ===================== Cielo vivo ===================== */
+/* Paleta por hora: [hora, cieloAlto, cieloMedio, horizonte, acento].
+   Entre puntos se interpola, así el cambio es continuo a lo largo del día. */
+const SKY = [
+  [0,    "#050714", "#0b1026", "#141a3a", "#8aa8ff"],
+  [4.5,  "#0a0f2e", "#181c48", "#3a2650", "#a98cff"],
+  [6,    "#16224e", "#45397a", "#d06a45", "#ffb36b"],
+  [7.5,  "#173a66", "#2b5a96", "#8fb8d9", "#7cc3ff"],
+  [12,   "#1d4472", "#2f6bb0", "#8cc6e8", "#66c6ff"],
+  [16.5, "#28406e", "#4f5a9a", "#c98a5a", "#ffb36b"],
+  [18.5, "#20204f", "#463069", "#c25a4a", "#ff9e7a"],
+  [20,   "#0c1030", "#161a44", "#2a2258", "#a98cff"],
+  [22,   "#060816", "#0c1128", "#161c3e", "#8aa8ff"],
+  [24,   "#050714", "#0b1026", "#141a3a", "#8aa8ff"],
+];
+
+function hexLerp(a, b, t) {
+  const pa = [1, 3, 5].map((i) => parseInt(a.slice(i, i + 2), 16));
+  const pb = [1, 3, 5].map((i) => parseInt(b.slice(i, i + 2), 16));
+  return "#" + pa.map((v, i) => Math.round(v + (pb[i] - v) * t).toString(16).padStart(2, "0")).join("");
+}
+
+function skyUpdate() {
+  const now = new Date();
+  const h = now.getHours() + now.getMinutes() / 60;
+  let i = 0;
+  while (SKY[i + 1][0] < h) i++;
+  const [h0, ...c0] = SKY[i], [h1, ...c1] = SKY[i + 1];
+  const t = (h - h0) / (h1 - h0);
+  const [top, mid, low, accent] = c0.map((c, j) => hexLerp(c, c1[j], t));
+  const R = document.documentElement.style;
+  R.setProperty("--sky-top", top);
+  R.setProperty("--sky-mid", mid);
+  R.setProperty("--sky-low", low);
+  R.setProperty("--accent", accent);
+  const [ar, ag, ab] = [1, 3, 5].map((k) => parseInt(accent.slice(k, k + 2), 16));
+  R.setProperty("--glow", `rgba(${ar},${ag},${ab},0.35)`);
+
+  // Sol (6–18 h) o luna (resto) recorriendo un arco por el cielo
+  const isDay = h >= 6 && h < 18.5;
+  const p = isDay ? (h - 6) / 12.5 : ((h + 24 - 18.5) % 24) / 11.5;
+  const sun = $("sun");
+  sun.style.left = 8 + p * 84 + "%";
+  sun.style.top = 62 - Math.sin(p * Math.PI) * 48 + "%";
+  sun.style.opacity = isDay ? 1 : 0.55;
+
+  // Saludo según franja horaria
+  $("greeting").textContent =
+    h < 5 ? "Madrugada productiva" :
+    h < 12 ? "Buenos días" :
+    h < 19 ? "Buenas tardes" : "Buenas noches";
+
+  starsDraw(h);
+}
+
+/* Estrellas: solo de noche, con parpadeo suave */
+const starsState = { list: [], night: 0 };
+function starsInit() {
+  const c = $("stars");
+  c.width = innerWidth; c.height = innerHeight;
+  starsState.list = Array.from({ length: 130 }, () => ({
+    x: Math.random(), y: Math.random() * 0.8,
+    r: Math.random() * 1.4 + 0.4, tw: Math.random() * Math.PI * 2,
+  }));
+}
+function starsDraw(h) {
+  // visibles de 19 a 6, con transición de una hora en cada borde
+  starsState.night = h < 5 ? 1 : h < 6.5 ? (6.5 - h) / 1.5 : h < 18.5 ? 0 : h < 20 ? (h - 18.5) / 1.5 : 1;
+  const c = $("stars"), x = c.getContext("2d");
+  x.clearRect(0, 0, c.width, c.height);
+  if (starsState.night <= 0) return;
+  const t = Date.now() / 900;
+  for (const s of starsState.list) {
+    const a = starsState.night * (reducedMotion ? 0.8 : 0.45 + 0.55 * Math.abs(Math.sin(t + s.tw)));
+    x.globalAlpha = a;
+    x.fillStyle = "#dfe6ff";
+    x.beginPath();
+    x.arc(s.x * c.width, s.y * c.height, s.r, 0, Math.PI * 2);
+    x.fill();
+  }
+  x.globalAlpha = 1;
+}
+starsInit();
+addEventListener("resize", starsInit);
+if (!reducedMotion) setInterval(() => starsDraw((new Date().getHours()) + new Date().getMinutes() / 60), 150);
+
+/* ===================== Clima (Open-Meteo, sin API key) ===================== */
+const WMO = {
+  0: ["☀️", "despejado"], 1: ["🌤️", "casi despejado"], 2: ["⛅", "parcialmente nublado"],
+  3: ["☁️", "nublado"], 45: ["🌫️", "niebla"], 48: ["🌫️", "niebla"],
+  51: ["🌦️", "llovizna"], 53: ["🌦️", "llovizna"], 55: ["🌦️", "llovizna"],
+  61: ["🌧️", "lluvia"], 63: ["🌧️", "lluvia"], 65: ["🌧️", "lluvia fuerte"],
+  71: ["❄️", "nieve"], 73: ["❄️", "nieve"], 75: ["❄️", "nieve"],
+  80: ["🌧️", "chubascos"], 81: ["🌧️", "chubascos"], 82: ["⛈️", "chubascos fuertes"],
+  95: ["⛈️", "tormenta"], 96: ["⛈️", "tormenta"], 99: ["⛈️", "tormenta"],
+};
+
+function weatherLoad(lat, lon) {
+  fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,weather_code&timezone=auto`)
+    .then((r) => r.json())
+    .then((d) => {
+      const cur = d.current;
+      const [icon, desc] = WMO[cur.weather_code] || ["🌡️", ""];
+      const night = (() => { const h = new Date().getHours(); return h < 6 || h >= 19; })();
+      $("w-icon").textContent = night && cur.weather_code <= 1 ? "🌙" : icon;
+      $("w-temp").textContent = Math.round(cur.temperature_2m) + "°C";
+      $("w-desc").textContent = desc;
+      $("weather").hidden = false;
+    })
+    .catch(() => { /* sin clima no pasa nada, el panel sigue */ });
+}
+// Intenta ubicación real; si no hay permiso en 4 s, usa Lima
+{
+  let done = false;
+  const fallback = setTimeout(() => { if (!done) { done = true; weatherLoad(-12.05, -77.04); } }, 4000);
+  if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(
+      (pos) => { if (!done) { done = true; clearTimeout(fallback); weatherLoad(pos.coords.latitude, pos.coords.longitude); } },
+      () => { if (!done) { done = true; clearTimeout(fallback); weatherLoad(-12.05, -77.04); } },
+      { timeout: 3500 }
+    );
+  }
+}
+
 /* ===================== Reloj y calendario ===================== */
 function tickClock() {
   const now = new Date();
-  $("clock-time").textContent = now.toLocaleTimeString("es-PE", { hour12: false });
+  const [hh, mm, ss] = now.toLocaleTimeString("es-PE", { hour12: false }).split(":");
+  $("clock-time").innerHTML = `${hh}<span class="colon">:</span>${mm}<span class="colon">:</span>${ss}`;
   $("clock-date").textContent = now.toLocaleDateString("es-PE", {
     weekday: "long", day: "numeric", month: "long", year: "numeric",
   });
@@ -23,8 +149,8 @@ function tickClock() {
 function renderCalendar() {
   const now = new Date();
   const y = now.getFullYear(), m = now.getMonth();
-  const first = new Date(y, m, 1);
-  const start = (first.getDay() + 6) % 7; // lunes = 0
+  $("cal-month").textContent = now.toLocaleDateString("es-PE", { month: "long", year: "numeric" });
+  const start = (new Date(y, m, 1).getDay() + 6) % 7; // lunes = 0
   const daysIn = new Date(y, m + 1, 0).getDate();
   const daysPrev = new Date(y, m, 0).getDate();
   let html = ["L", "M", "X", "J", "V", "S", "D"].map((d) => `<div class="dow">${d}</div>`).join("");
@@ -42,6 +168,8 @@ function renderCalendar() {
 tickClock();
 setInterval(tickClock, 1000);
 renderCalendar();
+skyUpdate();
+setInterval(skyUpdate, 60000);
 
 /* ===================== Pomodoro ===================== */
 const pomo = {
@@ -205,10 +333,9 @@ function drawViz() {
   canvas.width = canvas.clientWidth;
   const W = canvas.width, H = canvas.height;
   const data = new Uint8Array(music.analyser.frequencyBinCount);
-  ctx2.fillStyle = "#000";
-  ctx2.fillRect(0, 0, W, H);
+  ctx2.clearRect(0, 0, W, H);
   if (music.mode === 0) {
-    // Barras estilo Winamp: verde → amarillo → rojo con picos
+    // Barras estilo Winamp: verde → amarillo → rojo
     music.analyser.getByteFrequencyData(data);
     const bars = 48, step = Math.floor(data.length / bars), bw = W / bars;
     for (let i = 0; i < bars; i++) {
@@ -224,7 +351,7 @@ function drawViz() {
   } else {
     // Onda estilo Windows Media Player
     music.analyser.getByteTimeDomainData(data);
-    ctx2.strokeStyle = "#58a6ff";
+    ctx2.strokeStyle = getComputedStyle(document.documentElement).getPropertyValue("--accent").trim() || "#8aa8ff";
     ctx2.lineWidth = 2;
     ctx2.beginPath();
     for (let i = 0; i < data.length; i++) {
@@ -286,6 +413,10 @@ let editing = null; // id de tarjeta en edición, o "new:<col>"
 
 function kanbanSave() { store.set("kanban", board); }
 
+function esc(s) {
+  return (s || "").replace(/[&<>"]/g, (ch) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[ch]));
+}
+
 function kformHTML(card, col) {
   const c = card || { title: "", desc: "", dod: "" };
   return `<div class="kform">
@@ -298,10 +429,6 @@ function kformHTML(card, col) {
       ${card ? `<button class="btn small danger kf-del" data-id="${card.id}">🗑</button>` : ""}
     </div>
   </div>`;
-}
-
-function esc(s) {
-  return (s || "").replace(/[&<>"]/g, (ch) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[ch]));
 }
 
 function renderKanban() {
