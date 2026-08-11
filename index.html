@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Panel IA — dashboard personal</title>
+<meta name="description" content="Dashboard personal: reloj, pomodoro, música, kanban y últimas noticias de IA. Construido con IA, corre 100% estático en GitHub Pages.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🖥️</text></svg>">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <h1>🖥️ Panel<span>IA</span></h1>
+  <p class="tagline">Dashboard personal · 100% estático · hecho con IA</p>
+</header>
+
+<main class="grid">
+
+  <!-- ===== Reloj y calendario ===== -->
+  <section class="card" id="card-clock">
+    <h2>🕐 Reloj</h2>
+    <div class="clock">
+      <div class="clock-time" id="clock-time">--:--:--</div>
+      <div class="clock-date" id="clock-date"></div>
+    </div>
+    <div class="cal" id="cal"></div>
+  </section>
+
+  <!-- ===== Pomodoro ===== -->
+  <section class="card" id="card-pomo">
+    <h2>🍅 Pomodoro</h2>
+    <div class="pomo-time" id="pomo-time">25:00</div>
+    <div class="pomo-phase" id="pomo-phase">Focus</div>
+    <div class="pomo-controls">
+      <button class="btn primary" id="pomo-start">▶ Iniciar</button>
+      <button class="btn" id="pomo-reset">⟲ Reset</button>
+      <button class="btn" id="pomo-full">⛶ Modo Focus</button>
+    </div>
+    <div class="pomo-config">
+      <label>Focus <input type="number" id="pomo-focus" min="1" max="120" value="25"> min</label>
+      <label>Descanso <input type="number" id="pomo-break" min="1" max="60" value="5"> min</label>
+    </div>
+  </section>
+
+  <!-- ===== Música ===== -->
+  <section class="card" id="card-music">
+    <h2>🎵 Música</h2>
+    <canvas id="viz" height="120"></canvas>
+    <div class="music-track" id="music-track">Carga tus canciones para empezar</div>
+    <div class="music-controls">
+      <button class="btn" id="m-prev" title="Anterior">⏮</button>
+      <button class="btn primary" id="m-play" title="Play/Pausa">▶</button>
+      <button class="btn" id="m-next" title="Siguiente">⏭</button>
+      <button class="btn" id="m-repeat" title="Repetir">🔁</button>
+      <button class="btn" id="m-viz" title="Cambiar visualización">〰</button>
+    </div>
+    <label class="btn file-btn">📂 Cargar canciones
+      <input type="file" id="m-files" accept="audio/*" multiple hidden>
+    </label>
+    <ol class="playlist" id="playlist"></ol>
+  </section>
+
+  <!-- ===== Noticias IA ===== -->
+  <section class="card wide" id="card-news">
+    <h2>📰 Últimas noticias de IA <small id="news-updated"></small></h2>
+    <div class="chips" id="news-chips">
+      <button class="chip active" data-f="all">Todas</button>
+      <button class="chip" data-f="es">En español</button>
+      <button class="chip" data-f="en">Hacker News</button>
+    </div>
+    <ul class="news" id="news-list"><li class="muted">Cargando…</li></ul>
+  </section>
+
+  <!-- ===== Kanban ===== -->
+  <section class="card wide" id="card-kanban">
+    <h2>📋 Kanban</h2>
+    <div class="kanban" id="kanban"></div>
+  </section>
+
+</main>
+
+<!-- Overlay modo focus (pantalla completa, no es un modal de edición) -->
+<div class="focus-overlay" id="focus-overlay" hidden>
+  <div class="focus-time" id="focus-time">25:00</div>
+  <div class="focus-phase" id="focus-phase">Focus</div>
+  <button class="btn" id="focus-exit">Salir</button>
+</div>
+
+<footer>
+  <p>Repo público: <a href="https://github.com/unimauro/panel-ia">github.com/unimauro/panel-ia</a> ·
+  Noticias actualizadas cada 6 h vía GitHub Actions · Tus tareas y ajustes viven solo en tu navegador (localStorage).</p>
+</footer>
+
+<script src="js/app.js"></script>
+</body>
+</html>

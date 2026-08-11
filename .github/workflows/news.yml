@@ -1,0 +1,26 @@
+name: Actualizar noticias IA
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # cada 6 horas
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Recolectar noticias
+        run: python3 scripts/fetch_news.py
+
+      - name: Commit si hay cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          git diff --cached --quiet || git commit -m "data: noticias IA $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
