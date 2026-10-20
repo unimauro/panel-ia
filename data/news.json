@@ -1,62 +1,419 @@
 {
- "updated": "2026-10-20T16:02:43.671697+00:00",
+ "updated": "2026-10-20T21:00:23.772854+00:00",
  "count": 60,
  "items": [
   {
-   "title": "Voxtral 3: Voice Agent SDK and Speech Models in 50 Languages",
-   "url": "https://mistral.ai/news/voxtral-3/",
+   "title": "Bringing AI into business is hard",
+   "url": "https://pindexis.github.io",
    "source": "Hacker News",
    "lang": "en",
-   "published": "2026-10-20T16:02:07Z"
+   "published": "2026-10-20T20:46:30Z"
   },
   {
-   "title": "Why scraping isn't enough for AI agents and how DNS-verified profiles could help",
-   "url": "https://github.com/skindotorg/foundation/blob/main/publishing-for-ai-agents.md",
+   "title": "Customer Service Chatbots Must Be Stopped",
+   "url": "https://www.nytimes.com/2026/10/20/opinion/mamdani-ai-rule-customer-service-doom-loop.html",
    "source": "Hacker News",
    "lang": "en",
-   "published": "2026-10-20T15:59:42Z"
+   "published": "2026-10-20T20:45:27Z"
   },
   {
-   "title": "Ask HN: As developers from low-income countries,how to cope with AI replacement?",
-   "url": "https://news.ycombinator.com/item?id=50168362",
+   "title": "US bans DeepSeek from federal agencies, prompting angry response from China",
+   "url": "https://www.techspot.com/news/114269-us-bans-deepseek-ai-tools-built-models-federal.html",
    "source": "Hacker News",
    "lang": "en",
-   "published": "2026-10-20T15:59:25Z"
+   "published": "2026-10-20T20:40:31Z"
   },
   {
-   "title": "Build a Discord FAQ and Feedback Bot with Google Sheets",
-   "url": "https://quickchat.ai/post/discord-community-management-bot",
-   "source": "Hacker News",
-   "lang": "en",
-   "published": "2026-10-20T15:48:36Z"
-  },
-  {
-   "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
-   "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-   "source": "Hacker News",
-   "lang": "en",
-   "published": "2026-10-20T15:48:26Z"
-  },
-  {
-   "title": "CoreWeave se desploma a mínimos de 52 semanas: La deuda de la inteligencia artificial alarma a Wall Street",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc0NtZm1sTjhjczRSbWs2am9uc2doQnU4MERTSjdXeVc1MXlDdkFWanFUTXJlNUdveEJPOWYwTS1rNzBqNC00anRXNnV6bGlHQkJNMTJmNzZxWkhCTkxWWTR5VEJmaFlveHdQa2NhRHdYOFdpOU94NDdjV1hTVTdGWTN6LUxNZFhqN25zdlNGcndWV3FiS1hScFZsUHNPRmdlQ0h4MzlKbDZnR0l1ZEtEVE5PRkdfdldmamVrdkI5QQ?oc=5",
-   "source": "Comercio TV",
+   "title": "Debatirán acuerdos y principios para un pacto intersectorial sobre la inteligencia artificial en las industrias culturales (PICA) - Universidad Nacional de Quilmes",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRkZEYW5tWGhiVVhrN09nMjc5eFhrLTdMMXltaTRmZVNDbHNmOUxDS1B6dFNSdzY3ck1UczZmZ2JHLUhTV3FmRnVYVGQzT0paNHJTY3I3cmFLM29zZS1IQUtCUmVTVmtDUDV1V1FrNElXc29nWUUxT3JTS2ZmXzExUGhBS0FDbDN4cWNlSkRUZlVyd0MtT0g1YXk2RkJvcEpMWVRvOF9pUWdiMDFCRm1JYkxBOEkxcGw4ei1qcG9rM29XVXFFLWxSWS05Tm82cnp0S2pwX0stR0hnU3NRdC1YcGlJQmwxTi1ubFVKV1pPTkQ2QQ?oc=5",
+   "source": "Universidad Nacional de Quilmes - UNQ",
    "lang": "es",
-   "published": "2026-10-20T15:47:28+00:00"
+   "published": "2026-10-20T20:39:32+00:00"
   },
   {
-   "title": "AI Pricing Is About to Shock Everyone: Why the $20/Month Era Is Ending",
-   "url": "https://www.mindstudio.ai/blog/ai-pricing-shock-end-of-cheap-subscriptions",
-   "source": "Hacker News",
-   "lang": "en",
-   "published": "2026-10-20T15:45:34Z"
+   "title": "Julian Barnes lanza una advertencia: Los jóvenes escritores deberían preocuparse por la IA",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeG94bXF1WkVyMzNBdUt4WWotVDBzZ1FvOXR3bXVlZk9BS01DTHdvekR3bkVoYmFuOWg4OFlBMXdaT0Etb1VjcnFVSzRXaWNtV3dBZjRPOEhxYVNjay1xNHhaZFZ5OUVvN2hTQU5SVDNQajNFOWlZMHU4UnFDS3BTUFFCNUtWYTBsbVV0dkhJOTlJVWs4bXQ0aDFvLTF5YXR4THh1UmdVeVJyY1pEMEZjMi130gG3AUFVX3lxTFBqU09BY1FhX0pzeTBXblhLZ1J3VDNPQVBzMThUdjVCSHJ5VlJsaFVRMjl4R2NJYnM2Q1g4TWhIT3NkOFFlN1ptdnc3RjVHSWJhQk9ISWQwVGJGclJ1clRlZ2x0ZVRMdDMxczNON1I5cDk1QUYtQWUtM0pFZ2VkX05pNjVsT2Q4SWgtMHM5c0tGNnd6X0I1UWJMVjV5dTIzNHh1UG44SGUyeW1RcmlCZF9jRk5MUDVNdw?oc=5",
+   "source": "Diario Libre",
+   "lang": "es",
+   "published": "2026-10-20T20:35:00+00:00"
   },
   {
-   "title": "The Death of the Mom and Pop E-Store",
-   "url": "https://sk500.online/tech/the-death-of-the-mom-and-pop-e-store/",
+   "title": "Protestas en Europa: las causas económicas detrás del creciente malestar social",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcnhlajZDR2xyOWZsR0twWG1lZ25yYmJrTU15WHVUNlBpc2FWQy1UNEl6VjVQUjZ1ZUFCcVlfd2Y5MGdXZzFvVHd1OG9lZEgyNjd4c1RWSFlCR1BtQ1VTRzJoT21WWUNodWdFWEtpWlhUT3puYjJmaFFlOXBCSzhaWXVQN0w2QWNibHg2UEJHVlN0ZTRGZXpzZHhVNHdXMHJheGFwSFRORURhdXpHT3F3U2VxZEh1Unh3bWQyaDNsMnBGZDNZOEtF0gHiAUFVX3lxTE5XeGljakRNWjcyXy1CMGlMbUw5Y2o3VkhQODhZdVNpMGZTTU9YSGRmUnV2OERsNTZsb0NJNG9OeDNoWVJFcXdTMmpYSDgxMFh4RE9QR0M3ZndSSWd6QjRDSE1ZNlk0UzJ2dlBaODNfWjRDUDlZU1Y3T0FfMVYzQ3Zxdk1uSVFlbDRzWE8zNVFVZGVXblN3RzBoTW9ob3RnYkh0M2lXZndGQWlfaUFTd2tVUTQ5TTkzTW95Nk1UNHFvY2ZwS2w4RXVIeWp0YkZkMGplc1pZc0FLamRxY09hSDVzUnc?oc=5",
+   "source": "Infobae",
+   "lang": "es",
+   "published": "2026-10-20T20:32:27+00:00"
+  },
+  {
+   "title": "Ask HN: Will AI = extreme concentration of power?",
+   "url": "https://news.ycombinator.com/item?id=50172133",
    "source": "Hacker News",
    "lang": "en",
-   "published": "2026-10-20T15:37:53Z"
+   "published": "2026-10-20T20:23:04Z"
+  },
+  {
+   "title": "Show HN: Agent-Zero – Starter template for AI-native coding projects",
+   "url": "https://github.com/amorey/agent-zero",
+   "source": "Hacker News",
+   "lang": "en",
+   "published": "2026-10-20T20:21:43Z"
+  },
+  {
+   "title": "Sign Language to Text (SL2T)",
+   "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+   "source": "Hacker News",
+   "lang": "en",
+   "published": "2026-10-20T20:14:41Z"
+  },
+  {
+   "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+   "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+   "source": "Hacker News",
+   "lang": "en",
+   "published": "2026-10-20T20:11:14Z"
+  },
+  {
+   "title": "CCL y ESAN abordan los retos de la inteligencia artificial y la protección de marcas en las empresas",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQWt4dGtnbU00azZUa2RJdzVZdlNGRklsY2lsTXF5cmVNYi1qZWJLeWpqSjQ3Z1U0ZTF6LXhkdUU1bDljcVpfQmszQ2w4Y0NqRzVZQjhjRGctazlja3k1bDlHSC0zSk80T0pJcjhxMUNnaG1ka200X3dQTkZWdFNRRTBFNXphdU83djkzUFc0ZkVmMURyUVF1ODZVMXVUVHBuYlQxYXhydTEtc3J6UUp1djZ4THpjSmxTcXJSNktuS2JoU18wSGVwcFhoRVpwMHBJ?oc=5",
+   "source": "Conectados | El Magazine de los Socios CCL",
+   "lang": "es",
+   "published": "2026-10-20T20:06:59+00:00"
+  },
+  {
+   "title": "Los ingresos trimestrales de SpaceX se disparan y superan las previsiones gracias al auge del negocio de la inteligencia artificial",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xWEkzaVlxQ0tNU01RY3ZLd1Z3YUI3ZVZXY1FOaTNUUEp3bUdsNkNHWHZ4TUVkM0tTZTFxb2IxTHM5WkpuS2NuQU5ES2lRY2w4R2ZQRGNrcnY4ZHl2QlFvbmtrNjBKX3lLcVRJMzY2Q2wyQnNTTlFj?oc=5",
+   "source": "TradingView",
+   "lang": "es",
+   "published": "2026-10-20T20:05:22+00:00"
+  },
+  {
+   "title": "We need a frictionless physical AI experience for builders, makers and tinkerers",
+   "url": "https://blog.marcolamina.me/p/we-need-a-frictionless-physical-ai-experience-for-builders-makers-and-tinkerers",
+   "source": "Hacker News",
+   "lang": "en",
+   "published": "2026-10-20T20:04:58Z"
+  },
+  {
+   "title": "Chile lidera por cuarto año consecutivo el desarrollo de Inteligencia Artificial en Latinoamérica",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTXd2Ny02cFVGNUtCSG5nS2k2bXZJYTJ3c1hpOV9hQncwUFlIOWExYl9NXy1YbnVOOXFJN0RvZ09iak42WTJ0eEdPaTNrVk81Vkc1X1RoTG05MktJRERZOTFSOEtpbXlJSjg5S0JFUm11NVBpd0VaZ1VHSVA5eGlKbWxjTHZzc2pWai1HSEgzTHJxWEpGb3h3a0J0cEt3Z1ZoUll2REkwY1NOVjd4THhOUlYwQ0JOUnhfWnJlMFctQ25WQlJ1T1AyekVubElRUk9WUVlIVDk5V0tSVVdFemRhRFJGeEgwS1JtS0E?oc=5",
+   "source": "Cooperativa Ciencia",
+   "lang": "es",
+   "published": "2026-10-20T20:03:42+00:00"
+  },
+  {
+   "title": "Chile, Brasil y Uruguay lideran la región en inteligencia artificial",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbjJHVTVkS182aFh2WUhoT2d5VDdCUm1NajdQbHVWTTExVTJBaU5MQTE2ZnFkamV4eE9YQjh2UXB2b0R3RlVqSnFiZ3N5eWpRSzViU291bkp0NzBYcFVNWHlULXBLMlpBMTk1VU9ycWlUVzJwYW9JOWoxZVB2aUtia2kzZDJ1MENrczBvcDdXcjVXYV9JbGJhMjZZTE5EWWZlLUE?oc=5",
+   "source": "IPS Agencia de Noticias",
+   "lang": "es",
+   "published": "2026-10-20T20:02:09+00:00"
+  },
+  {
+   "title": "On AI writing",
+   "url": "https://www.bolkunov.com/p/on-ai-writing",
+   "source": "Hacker News",
+   "lang": "en",
+   "published": "2026-10-20T19:55:11Z"
+  },
+  {
+   "title": "Inteligencia artificial en empresas: 5 claves para automatizar con responsabilidad",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX2g2VDBDSmU2enVGOWJjMWF1VUdXOHVvZzRPSlpCUE12N2tyUjNtUm5EbDBGY0lRNHYybVRRZXozTEFPRlB0cHJnay1KMnZKcDJiWHVvd2pRQ3NvdExSeEJ0R3lRX3R3M2d6Ym5EWThXWjlpVnZtZFVHY3k2MU15Yzd6YWVaNlVEQzdDcUg3SnJmc0F5dFlUU19TaENZZ1UzTHVUNVI3UFpRN1FqTkZJTUJwZkJYZ1VqS05ueV9VZjMzZw?oc=5",
+   "source": "La República",
+   "lang": "es",
+   "published": "2026-10-20T19:44:33+00:00"
+  },
+  {
+   "title": "Waste tsunami. Water and the hidden cost of AI data centres",
+   "url": "https://michaelwest.com.au/waste-tsunami-water-and-the-hidden-cost-of-ai-data-centres/",
+   "source": "Hacker News",
+   "lang": "en",
+   "published": "2026-10-20T19:37:54Z"
+  },
+  {
+   "title": "¿La Pantera Rosa protestó en Francia? Esto se sabe de las imágenes virales",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUk56Wm1NRkhxaU5uYTBoMVBueWx0LVJlQWpKQXhHSXVwdnozTzU1cmxremZGRjVyQVJ0OWprV0xoWXNjLXEyaDFYa2R6LVA4a1pfVDRNdkRSdlA2bU9VNDI5LWRXcFV6WEJOVEpNUUdCOHAyMF9VTm9hVmxYNl9kNER6NTQ5b1d6d1ZIUmh6aTRhZ3p4Ql91eUlzeXJfUy1qMW5LZ1U2a18xcTl4YU9CRmp6YmdydnlZN3JwU29ENUpocG56S3c?oc=5",
+   "source": "Récord",
+   "lang": "es",
+   "published": "2026-10-20T19:36:00+00:00"
+  },
+  {
+   "title": "Sobre uso de inteligencia artificial en una nota de El Comercio",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRkJjWUZTMW44ckJvaVN1SnpMUFlBZ2lrbjNGenBkWUFGWENEWDdIaG5xSUVvenFEcUpQa3ZNMTMtMG1qdVhuNjN6ZFp4cXJHVDl5ZWR5QXVGejNKTXZ6ZXYzQmR1TlFTV0M5WTJuTlg4REZWa25GWVpKSzdseWYtQzN6MlpHQmpQSUE3bU9PSU9sVUNaTnhHdzVxdDNwS0xhSlRzcXFTNVhha1lvUG9YaWZmZ9IBxwFBVV95cUxNNzN1TXFhQUJ0cjRfVGhfYjFpQkNiY3U5a2hrQWw2eTRDMGFMeGxIb3ZXX0RQbVFkNEFpRzhrSGgxc2FQUmtDT0xRQzJsNGh3ODFDTDFRVWI3NUF4UWg2ZXZHZGxheXBfZ1VBSXFKOEpRTFBXWG9qbmxGUGE5bS1Jcl9vRGZXdlMzUjM5SHliQW12aFRZbHdleFlHVHdvQUxTZ2xtSW5uc1JtTDdrZkwzalVqa2x5NzFyQUlpS2c4dTRYcEdPYlI0?oc=5",
+   "source": "El Comercio Perú",
+   "lang": "es",
+   "published": "2026-10-20T19:34:55+00:00"
+  },
+  {
+   "title": "Anthropic S-1 Shows Red-Hot Growth, Risks and Computing Costs",
+   "url": "https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1",
+   "source": "Hacker News",
+   "lang": "en",
+   "published": "2026-10-20T19:34:39Z"
+  },
+  {
+   "title": "Amazon adquiere más equipos de inteligencia artificial de Nvidia de los que tiene capacidad para alimentar",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUkp5Y3RybWZCUGFrRDVibzFBOGhBSUFpTFlrLTlSQTRyOU1ESW55Y3BEbTFDQjM4bWVNbkRSdnpmaF8zYTRfdTVpZDhQMUU3NlNPS21uNFlSNXZkWmhITF9QbE81WWNaVmxvaklXT3FYcDhtT3FiakYyU29kVWRxRUlGQ05HSnNSVkw4a2ZreGg1REN5UWY5MG1XemVhM3NPZWtnbHJnMDk0VXpMSWFTLWNQWjZkc1pyaFVQS2RmWW5DMDJERXJzVGtEOVBVeG5pVlc4WnFnWjNuV05WM0lzNUdxdDctNkttb2hGVg?oc=5",
+   "source": "MarketScreener España",
+   "lang": "es",
+   "published": "2026-10-20T19:30:15+00:00"
+  },
+  {
+   "title": "Show HN: Modula-9, a Wirth-family language designed for auditing AI-written code",
+   "url": "https://www.modula9.net",
+   "source": "Hacker News",
+   "lang": "en",
+   "published": "2026-10-20T19:24:53Z"
+  },
+  {
+   "title": "A practical guide to AI image generation, from diffusion to agents",
+   "url": "https://danielball.com/notes/ai_image_generation.html",
+   "source": "Hacker News",
+   "lang": "en",
+   "published": "2026-10-20T19:22:39Z"
+  },
+  {
+   "title": "¿La Inteligencia Artificial puede matar al software cerrado?",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcGY0OGZqR3VtSUFQQmI5dmd1MEY1VlhDazBNTDlOWFlpUVVTaEtFQXJnOWpJNXA0SVZQVmVqbDY5ekN4YlpFY0hmRUFnLXdKQUNFQ0Z0NFkyY2d0RTh6YmROUUFQME1zeFdaaWxKbTdrSDNDQUF6b1ZMY2pFS19VNHJyU0FMNnRhM0JCUzNpRmFmUDlWdjlRb3dR?oc=5",
+   "source": "Universidad de Chile",
+   "lang": "es",
+   "published": "2026-10-20T19:18:31+00:00"
+  },
+  {
+   "title": "Lefebvre e ICA Granada analizan la evolución de la IA y su impacto en la abogacía",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd0J3NEhWNnFRelQwRWxNUTFnNDdfR0RIMHRBTGowLVM3dDRVZVFFNmxQTjRkdnBVcjNJdXhJb29kWWtzMFExak9ScWpnYTRsb2RCMl8tNnRFNWc5ZTBmZDZBd2xieVNWWFhwbUdIMmhfcjgzcnk1SE51a0NKbzBhRWI5bG02Z3U2ZVBhT01sZC1IenpwbW5ieFQwLWNmRTF2VkpHbllvSlM1X3EyN041TFRHWm5YM2pnLXRsWWhZNEwxbmY1V3JhTHVNMFR4SjI0MzRydEZpSnZFMVl2Rm1GYi1LMHZFUGx4VVE?oc=5",
+   "source": "El Derecho",
+   "lang": "es",
+   "published": "2026-10-20T19:16:09+00:00"
+  },
+  {
+   "title": "I tell the IMF the Singularity has begun",
+   "url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
+   "source": "Hacker News",
+   "lang": "en",
+   "published": "2026-10-20T19:15:47Z"
+  },
+  {
+   "title": "Anthropic redesigned source-control for AI agents",
+   "url": "https://www.anthropic.com/research/redesigning-source-control",
+   "source": "Hacker News",
+   "lang": "en",
+   "published": "2026-10-20T19:08:21Z"
+  },
+  {
+   "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+   "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+   "source": "Hacker News",
+   "lang": "en",
+   "published": "2026-10-20T19:03:11Z"
+  },
+  {
+   "title": "Meta: el crecimiento publicitario y la factura de la inteligencia artificial, a examen",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVklnNXVGU0ZJbldkbjh5dzlNcHM5cklLaTZIemxSV183eTMwVzljdDRJNEhZaDNnb09iS0FiaWw3SDhDSVcwYk96NmctcnZ1ekJoRGgxU0ZMTmR1RHV6VnNRUG95VjBFekgya3daNDdiN0pDTzFmNklWM0JDRFluTTdOSjJLQTM4Ml9hQV9Tb21veHBELWRyakFWSlpWZVlWVzdVd19idXIydlJRS2hTQWpoUTJTN2dhNFBUZ3Y4SVRnaEd1dDdZcF91ejI0YmRPUjBQX1ZPOA?oc=5",
+   "source": "MarketScreener España",
+   "lang": "es",
+   "published": "2026-10-20T19:02:22+00:00"
+  },
+  {
+   "title": "Latest open artifacts (#25): DeepSeek v4.1 Flash 1017, American-made models",
+   "url": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+   "source": "Hacker News",
+   "lang": "en",
+   "published": "2026-10-20T19:01:14Z"
+  },
+  {
+   "title": "HoDoKu Revisited – Classic Java Sudoku Solver Ported to PWA with AI Coaching",
+   "url": "https://hodokurevisited.com",
+   "source": "Hacker News",
+   "lang": "en",
+   "published": "2026-10-20T18:58:23Z"
+  },
+  {
+   "title": "AWS launches open-source Physical AI Toolchain for robotics",
+   "url": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/",
+   "source": "Hacker News",
+   "lang": "en",
+   "published": "2026-10-20T18:47:08Z"
+  },
+  {
+   "title": "Agentic AI has potential uses in prior-authorization protocols",
+   "url": "https://civicpivot.blogspot.com/2026/09/healthcares-ai-arms-race-can-agentic-ai.html",
+   "source": "Hacker News",
+   "lang": "en",
+   "published": "2026-10-20T18:40:17Z"
+  },
+  {
+   "title": "Think App store shared revenue but for AI models",
+   "url": "https://dismodels.com/",
+   "source": "Hacker News",
+   "lang": "en",
+   "published": "2026-10-20T18:38:37Z"
+  },
+  {
+   "title": "Inteligencia artificial y transformación empresarial: la visión del liderazgo en telecomunicaciones y tecnología",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUFZKRUs1UTRfSUpkNTFmVmxJb01BT1ZzVGFqY0lvU1d3R2dWSUxVRzFodFIyWER6NjRKUTZyS0MzbGVZREtkc3AwQkdtR1l1X09aRC03RVdtazY3Mjh2bGp2Ul9hV2pHY2dMQTF2aEg3RjdJVjdnVmNzTkdJVFZtQlFxTHFPWVk0el9RdjR6c05zd2N4dEcyVFY4N3F2TVVCUnh4aFJuUDc3d3hkeUlxelhCT1o1SkpRVXMzcUt0b1EwRkhpX2ZwbkR6amVLVVExRS1BbkRzcF9xMWtpRVllaldxZ0hkNFFUWF9OMk50TEVJQnM?oc=5",
+   "source": "KPMG International",
+   "lang": "es",
+   "published": "2026-10-20T18:36:17+00:00"
+  },
+  {
+   "title": "De la pantalla a la “realidad”: de Santa Fe a Brasil, la inteligencia artificial gana terreno en las campañas políticas",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM3Y1U0x2aHg2Y1JGOUFKdGhtT2VZSDNOWU1GZ2RCR2x2TzJCd085NWo5cVY0X2JoeWRITFpHLS0xbEtlUTNLc3c0bkRHVkljdVlISncwX2g2X2c4d0lFT1NQMXBFeE9WX1pIOE1vZ29hbGtZaU1TS3lZU18weGdEMGt0eEFoenRsOUtxdDdlTjlOSW9BNmF4a1FsTG4wVFBtanlFZ3lkZ0oxbk5hTjFiem9QVmVYbkQ3TjN4REQ4REJsLXNpaUFsbkNmTXotZkFNWFhYaXZGajlDSDg?oc=5",
+   "source": "https://epicarosario.com.ar/",
+   "lang": "es",
+   "published": "2026-10-20T18:35:33+00:00"
+  },
+  {
+   "title": "Amazon, bancos y aerolíneas bloquean asistentes de inteligencia artificial para impedir que hagan compras por ti",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWlktZW4taGpZNHA1VHlrR3N6RzVlQkFUcTJCeDJ0ekx4UVE0a3hlX3J1TEYyVE9yazUxMjNiM3Z1YWRCWmVnYU5CREh3Q0NrdmxsWl9QLVI1Zll0VWtNUVlSMVlMQ2ZUeDhPb3FVTG51ZzRtWWRwZVNVQUljSG9seEJwTEZSZWt1OHR2Zm82RjhHNjlOSFp0eGp6RmFQSGdVUjZqMW42OVFTekJ6X2o0a1BONFhPTDc0T1BHOE53aTdrdXNESWgzZGl5bVJBQVpwX1ZubWlYaUFPeDJfbzRBQ0tGa3JROU5WVDRacDB0cEJGbXRiM0xkVjdOY2RpQQ?oc=5",
+   "source": "El Heraldo de México",
+   "lang": "es",
+   "published": "2026-10-20T18:35:00+00:00"
+  },
+  {
+   "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+   "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+   "source": "Hacker News",
+   "lang": "en",
+   "published": "2026-10-20T18:34:30Z"
+  },
+  {
+   "title": "Making the internet better for AI agents might make it worse for everyone else",
+   "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+   "source": "Hacker News",
+   "lang": "en",
+   "published": "2026-10-20T18:27:29Z"
+  },
+  {
+   "title": "Apache Airflow AI Provider 1.0",
+   "url": "https://airflow.apache.org/blog/common-ai-provider-1.0/",
+   "source": "Hacker News",
+   "lang": "en",
+   "published": "2026-10-20T18:23:24Z"
+  },
+  {
+   "title": "Spotify eliminó más de 50 millones de canciones spam o ‘basura’ hecha con IA",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX0RHOWdCbDRscWMyTGNhQzAxZnBJVklZN19qa3JSdXQzUTFQX0NtaC1ENnZBRXpLQjQzZklleGFDZUl6bzQyeERlb000TzRWNUJseFh6Y1RmZ3FhZmU4a0FidTZGQzAtSUNiaDAzVTBKVE15Z2Q2RVU4ak45TUFjUWV6Wm1VMktvbm1paXlxM2V0OHFjMW5aVkJ3NGZUVUhWbkJRSWRnZlFNNU4tYTlUQmh0S3pxNjjSAdIBQVVfeXFMUEQ5ckhKR1pjOV81NVloU1ZyV3V1QXExYmhqdXNtd1d5WEpyRU9DZXpIVGV3Tmo3cEgzUWE4TzNHbDlsT2szS3p1dkRFd3pnTjRaUVh1bDIwS01Bc3drZ05TdGNzbXBpdlpFdTByNkc4VTNPam55LURKejhSSm5hVFN3RVk1d0RUeDd3UmNYZWVURWMzRVZ5aThVVTNDVjRhUHktYmtjVGZ0Q0lOLUFQYzBaUUFkZWNoQzhDcGRNYmd3X2ZuazkyOVNwclhrTk1WU0NR?oc=5",
+   "source": "Infobae",
+   "lang": "es",
+   "published": "2026-10-20T18:23:06+00:00"
+  },
+  {
+   "title": "Rebuilding the monday.com API edge for AI Agents",
+   "url": "https://engineering.monday.com/rebuilding-monday-api-edge-for-agents/",
+   "source": "Hacker News",
+   "lang": "en",
+   "published": "2026-10-20T18:22:18Z"
+  },
+  {
+   "title": "Cursos gratuitos de inteligencia artificial y ciberseguridad tienen nuevo plazo: hasta el 30 de octubre se puede inscribir",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQclVTU0gwaUpqZDlsQ0xnR191cWpDQkpPV0FfRG1jRGJnSk1VV1gwWE5UbUdNaG9TZmJNa29WVzRheGJJYXA0SG9Ccndja1ZVd1dDYXkzUTcwVzY4UmZDWUp0YkVhVG4zc2xHNDhqdzFsX3pqdXAzeGxXeEtkRkw0VmhjUFd3WnB3SVozSGFOaWhXbVF5em9fWlFzX3BFY3doNno5OXVSZmdIX3o3NXJZWEJKZWZIbWpDQkZVanJmczZ2UGJQM05OcHdhQTNfM3RhTG43eFFiYVNXNWR3SnU4ZmxKd3BocUJjdjkzUmFrZzkySDh5cjV6T0ZB0gGUAkFVX3lxTFBqOHlXXzZVUFNmSXlJYkNkXzdwcXhSa2g0MmhORllGbERGVGNCbjlXSWtvYlVObFh0WHRtTkFqanNiZ2VGdHByWTZKeE11bkwxc3p3NEZfZHVJMW9zLUpDYTB5bkhEVmNhQ1gxa3FsZGhBWFFBU3lET0c5eUJyVmw0TWhyeFFvaWlmaWxleDlDUnBzS0pqMXdBY01NSWJXazFmczJEWV9COGVSQl9uVlhLZTJKcGVTVUJJb21Rd1pQS0I4OG1CZEgyMlNWLWNNY3hjekdINU9ha0dDVi14MDZkQmpWdl9yT0wxYUV1c0tqRk9tQThjZEpVSDJ2cFFBcUI2QzRSd3VkSy15VmZBd3AxSXh2WQ?oc=5",
+   "source": "Infobae",
+   "lang": "es",
+   "published": "2026-10-20T18:19:10+00:00"
+  },
+  {
+   "title": "Editeca lanza EdiBIM; el MCP de Inteligencia Artificial para Autodesk",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX1Y4NnRsb1JoY0IyNFAzVlZDRlFLUXJOMVRuMmVkLU1EeGtHUmo3cU1VUnYxUmNhREpDd01lb3dWUXBIQUl5RXI3QkxVVmlaSU1YckZPeU1NQWoxSFFQc1N0OGN5UWFLZ0xsR1VXNDhQcW1Uak43S05vUXRJWlAxeWJaaWhlY094MEd2TUpDb3hBeUxvWlkwdlByLWtyZ1JobzNGVzVYVlRlWW14N2pMakNNRHVTZw?oc=5",
+   "source": "GIRONANOTICIES.COM",
+   "lang": "es",
+   "published": "2026-10-20T18:02:39+00:00"
+  },
+  {
+   "title": "Los expertos advierten: nos estamos convirtiendo en cascarones vacíos controlados por la IA",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOTXgzX1lxZkZSN0otT0FGeHFBcGcyMUExcG83bXpyN2R0NHcwZjVZUmhUeUxPdnh2Rl9TLUN4aUtSdGQwNHExY0pENDJZU3ozNEh2U2tBbUhLRjdZT19Wc3dpbWF4NzRzZHBfMDlYZ2haRG45R2VzcXlwOXZiRXgtVkZyV3gzNDZvaWp3Mm1CNkM2ZEVmaURHOGxINEE3TmtrSGVwYlktTEY5dEZjRWs1c3lwUGRyaG5FU0NfS2t6cF95ZVhRY2tRamV6ZXU0Q1o3LTZQM091clRrNGQ0TVI0VURUU19JLWpRWWVFeGRaRHBoVkJrNTBtMmhFbjZlOFA0cUk5X3Z4OA?oc=5",
+   "source": "La Razón",
+   "lang": "es",
+   "published": "2026-10-20T18:00:00+00:00"
+  },
+  {
+   "title": "La inteligencia artificial sale de Salamanca para ayudar a las empresas de los pueblos",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVkRLc0hUajhKXzh0SDBORWpSVWphRGZ0bDRsMUxXTHBTMFBpbGJ4dGx2MmFiNjM2Q0FWVXVzZnJzWF92eFR1QlYxTUc5UzB3X0ZTNHQ2a0xtbXpSZ1pOOFlQd1UwcktwN0N1dFJzM25XcUJFb2s1Z0o5QkNGSE9sQ0k3a2d0dVI2SWtCb21YR3dZSUV2dWFTRHQ5SUhyWEo3Sm9HVnhfeFZQQUdYZEl2SjlTUzNmU1VmY0N4MVluWmt3S2RQZ05CUlRVczNlNFo0?oc=5",
+   "source": "Tribuna de Salamanca.",
+   "lang": "es",
+   "published": "2026-10-20T17:51:27+00:00"
+  },
+  {
+   "title": "La inteligencia artificial impulsa una nueva generación de formación oficial con instructor para los profesionales de TI",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdTY0S25sN21SNDNkc1pOS0l1UkdTaGNOMGdMd1VaX3R3aGZocFlxSVR2Q0lCY3ZPQk1rX1JPMlVUc2VpT3ZiX214a1FLN3ZSUWt0cDFRb1BPbnRrTE9qa3RMZjJOeDBpQUhjNlVDazk1VUZYdGVlcmo3NzF0ckxfYUQ5LTVWQ3F4dFN1VXIzRmdHUWRrcUZSRE8wZmJJWmJaVUotcUdTLVZMSzE0NV9oVEQ4NlREUHRQRy1iSXl4b0JxMFBxSDkxazNXWi0yU1JfdVFWVzFuc0tUQ3JGRGplSU96OGdPTExHc2FIQjc2SQ?oc=5",
+   "source": "ITSitio",
+   "lang": "es",
+   "published": "2026-10-20T17:49:06+00:00"
+  },
+  {
+   "title": "La Inteligencia Artificial en la Educación Superior: Desafíos, Ética y el Desplazamiento del Valor Humano",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQkNvOTNwcjhZdElVLWdxX1dmWi01WW1xY3BjcWI2MlhUU2FYVWI3dkhOZnBlMzNOM3l5RjRjRG9DREN6SXhzODZvUHZpVmZTOExBbHNEVk52N214dU5zbXBRMXlLTTFCV2I3ZDJzZ2p0QmliaFJ2Y1NDTXBxSWkxcUxJYXQtUk1ObWJjNDBHMzZoUkpwWENCaGRyaTZqMkRnSjBVR0RYWk1PZDI1Vl9NeEpWMWFCaEw0YkdYOTFBODBMQkNIS2xr?oc=5",
+   "source": "Universidad Técnica Federico Santa María",
+   "lang": "es",
+   "published": "2026-10-20T17:32:10+00:00"
+  },
+  {
+   "title": "Inteligencia artificial y baja visión: cuatro formas en que los lentes inteligentes pueden ayudar",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMS0wVjM0a0VXOHE0Z1BkbFctSmVjSXpESHFNa2p0b2l6SUtwZm5YcDhVT0JtOVdMZ0JPQzFDcERNUTlINVVpb01Ud0dvY1R0aGhzMVZZRFJFbFI0RDhxV051cWVnX3p0d3hjSllUbzdOUzRvM3U2MW9yUGV5MVBnNUctZFFnbnNpcml4a2p1WmFCcy1iU2pscGVEdGR4bGtGQUNmczVqZmpvUkNjQVJ0N09Yb3dMR1B3VnFBUXpxV1FINUZDR0ZGMG9IOGZTQ21q0gHkAUFVX3lxTE9LcmJ6SVFKalVkN0lrTlhIc3pTUTBtRk0wOG1QeFgwQ0N6NzBxamNOSWxOZFBHNk41TmpRc0pHZTI5d1JVdEh5ZE4wNVdJR0pTeWRMQVYzZEhCOW5TeEhTcmRvSGtYd2I2WGFGYVFJellmOGhsX3JNeTNFSlY0Y0xHSDJpR3RfVUNnT1VneUd2LUJFVXlGdGdMX0tLeGtJcHpLX2NPejZ3NWVlcU1VclU1NjVXV05sNDhXaThFZDk3RGt3LXhHU0dzOUxPMDFDY2ZlT1RPSzRod2JZUEs5cDVJTkJDSQ?oc=5",
+   "source": "Diario Correo",
+   "lang": "es",
+   "published": "2026-10-20T17:21:07+00:00"
+  },
+  {
+   "title": "Los cinco factores que condicionarán la competitividad financiera en Perú, según KPMG",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV3NDM1NiZ3BoTjd4VnJhaG9mM0E5aTlBZnlReHF5YWFubTZRcDIteTNUTG5BQlh5MjkyRW1VcVFBb21JVU5sNVBhdXd1Z3hlY3hESldRTkJZUUVic3l3Mkw3cXBMM0VRVDF1QzZRT2t0VnBYSkx6elp2YkJjdnV6cDZfR0VoMmVPRTV4MG1zeC1NSlBSX29CaDJTYU1iVTdrNDI2ZzNzczA2bVFGbDMyRmVORG1URjk0RVRrN0l1MkQ2ZE3SAd4BQVVfeXFMTjdTXzJsLUZmYTlLOXhPSzAya1U5dmJlMWRrN0tZeXMzd3YxVnBGa1puWE1iRVJCVERuanhveHBVWUV4ODVPdnYxbnNzbXhyeXpjMlV0ODZyaFJwaTU4T3FsUnZVTDNJWnR5aFNUZzhNemNpa0FRT1R4YnZCbXBlazhiLW14RzNyYzV3b3VWUi1ValVjOGREZ2dUQnJQcGFSNkxrX1JGaXZ6Z0Zla2tfaXM3dWdTeHBTQms1bTZIVkVsNE1WNnZBWVFQLXpmd2xrMm5RYWFfVlpFamdsT2xB?oc=5",
+   "source": "Infobae",
+   "lang": "es",
+   "published": "2026-10-20T17:17:44+00:00"
+  },
+  {
+   "title": "La inteligencia artificial descifra 100.000 páginas manuscritas y revela dos siglos de comercio marítimo británico",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSlkxMjlfTi11NWd1SXZiU3h5b2JoV1QyV2VjTnZfaEFFcTQ2SEhTcEdzUUZ1Z2ZVdkpOd3FBdmgzR3VuWG92elJfLTVKUVpmZlJSckkxOE92eTVSS1cyZWpCNFJKRElISVNjcmpLYkxoVjdBT19uWnJ3NGNiM21YejA2MnE1b2lVTnNVT0RMa1k1RVFSUHdmUmdWaW84Yy05RmsyRTROWFZUWDQ2MjFkN3diejd2THZOTGFmT0w4cnU5TEhFZ3pTeWtqc2s2RGxuR1RyMUt5Vk1Qc0hYbGpKWWY5RGhiVnBzOS1PZ1ZmRVBNVDZDOGfSAZACQVVfeXFMUGZPZG9nZzZMNVJRVVlGUFhOOWk2MDd0ZFdFSG4tWlc3clJxQUJ6WXFlUzBkczdxd2xhWk1vWWR5LTVNTEpkbzBnZVJlUkVrdGVBSW8zR201bnA3aXgybmRWa2d5NmNnOXBTQU1iNEZQYndfeFpONGRNRVdtcU9CNTBWclVLQ0RHZ19BcE1uQUNEXzJQUkktQlh0a00wdHlON3pDX3g5MzY3MXMzQ3l6cmV4VUtwMDRzeDN3b1J5TlV5eXhYeGVrVlNTWURYZ29vNHJ3S1FnR2NKRkJBblg0R3BYWkU4SUpQNlNjV1NtdVZUbTgwNzlZSkJKbTY0Q3E3NjRhc2RxOTBueS1rUDAyT3k?oc=5",
+   "source": "Infobae",
+   "lang": "es",
+   "published": "2026-10-20T17:07:00+00:00"
+  },
+  {
+   "title": "¿Puede la inteligencia artificial sustituir a los científicos? Qué dice Sabina Leonelli sobre la investigación y los datos",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVmoyTkZxaTdOYTJsLVpYeDJlb2RYcWdBUHFnQ2lreko0ckZ6RnBpNTZ0c3dCdUt6Y0N0YUN5djVRaWkxUmxTbE9JWl9JMUcwbng4eHFpRThBcFlkWDJ1OTRFVWVYR0FWVVR1N0FZUWhReHFZeGN6eTNGNkJnc0pBcV9kdGhDblhZblRrMWFZUjNXREVIWjhqcGFTMGcySmZCLWlieEZMdEZjdk44RGJ6YjgyY1VhY3JDRnc?oc=5",
+   "source": "Revista Mercado",
+   "lang": "es",
+   "published": "2026-10-20T17:05:46+00:00"
+  },
+  {
+   "title": "En Israel crece la aplicación exitosa de la inteligencia artificial a los tratamientos personalizados contra el cáncer -",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN3NjdmtibVpJeUNSYjBOYk1jdXBmYWl2WENFeU5QeUk4NFpObTlDWGlEeE5BYzQtR2NFMzR2eTRWZ1NJS0QzLW5STm05bzk2bkVXTmFfY0YyQlpUVDZub1Nid28wSnFiVDdIMTE5S1g4azRxNUZCUTZ2OXRNS2dXYkxDRWhUSkhNaGYyUUFYSkhwU2ZGdk5QTy01czZqa2U1TjgyWDlxNGcwdWdiX0VpY0lSb0FJLTRySGJsMXR1UkF5WjQxMkFVNUxrSmJnMEFvX3lqNDducFJOalhQMExhVlNlYzUwS0N3bmlCSg?oc=5",
+   "source": "- AJN Agencia de Noticias",
+   "lang": "es",
+   "published": "2026-10-20T17:03:45+00:00"
+  },
+  {
+   "title": "Los chatbots con inteligencia artificial se convierten en un canal para que las jóvenes víctimas compartan información.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMy1EVklmNjlwYzVhNVY0Z1NZUXNud0JfU3p6YlR5dDNvbTllRGtKQkN1WlV2UjgwenBFMFduYXVmdXBXU05iMUdJdFQ5ZDVnbDdQRHE4ZHdfN040cWRoUXNReVJIbEZXOUtZN0locERIbzdXTWZJWUhyUGpEQThzbzRxMWdDcVM0?oc=5",
+   "source": "Vietnam.vn",
+   "lang": "es",
+   "published": "2026-10-20T16:59:37+00:00"
+  },
+  {
+   "title": "Estudio revela que la inteligencia artificial comienza a instalarse como herramienta de aprendizaje entre adolescentes en Valparaíso",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeXRRWllqQWZxSTJkUEZ6aVFyMG8wdmItUkxINjg0d3ZYSW12VVZOVEhDM1gxR1JNQWIyTTBWWWdfQ2NldWRTSnctR0JCTThKNVNTeWI3QndLVWQ4Vi05WVJULTN3VVFtdUF0cjM3c1kyajcwdHozN3dVbDZlbEZ4Sllwd251MmQxc0NXSDlKY1FnME8yS3d2cmpabEZsMVd5NlVIRUkzTGtwWGU5OG9EcjlxLXlnTDAy?oc=5",
+   "source": "Puranoticia.cl",
+   "lang": "es",
+   "published": "2026-10-20T16:31:00+00:00"
+  },
+  {
+   "title": "Valve recibe críticas por la oleada de demos con IA en Steam Next Fest",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTERPRzRRUFhGWE9qTl84cVNhcUQtSVlSTUZjZXRwVkFxY1VzMkttazl3RzVFaFMxYkhRZE9rVERGMk95ekNlbk4xZUt2VHFLTlM1cnJRN2R4NkhPQVZTMGpHdDQ1VHhFTTd0cFpxSV96aTl5LVd3VVAzOWRRRmdrY2FvNUlrb1JGVjNjNUhGVzZQN2UzcWd1YTFUbjhFSnoyTjFmeWNOdWlGZzdIcEd2TEVDbEpmaVlLaV9KREN3?oc=5",
+   "source": "Infobae",
+   "lang": "es",
+   "published": "2026-10-20T16:24:00+00:00"
+  },
+  {
+   "title": "La adopción de inteligencia artificial en América Latina deja atrás a las pequeñas empresas",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV0VzNG11Z2d1WDFNMDV3Z1hRVzVxSFEyNWFYY1R4cmhTZmpxa2hDSFhURy01Yl83YVNYbzR5cEFyT3A4YnItT3lQdE1iM0QxbnY1bXlLQWMwNmxKZTlJUnBRbTVyVHlwZ1hjbHhCY3dVR09fc1ZnR1JYODJpeDZON1V5a293TTBCeEtKa2tnS1NUQ0Nrb2tYWkxlcEVSdkxjNE9haFlzbVQ?oc=5",
+   "source": "Yahoo",
+   "lang": "es",
+   "published": "2026-10-20T15:58:18+00:00"
+  },
+  {
+   "title": "EEUU veta uso de la IA china DeepSeek en agencias gubernamentales",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1JiQVV4cEJRbkc4QU84S2xhRE0zXy00bVBJRndUNG5sOW81dzBQNmdOazAtVmI3NEp4ajZQQkZFZWpISDYwekZ4ajZzUFQ2dThfZ0kyaGNsRnN1Zm81b1J4VEgwZUVxOTVIaVJEV21pOUF2c2szWnBSZHZRWmM5Sk1NaFBSZmlJS2twdDFZX21kMVNuNXJ4TkZCQWdVQkpILUZmWjJhSDlHcm5PQkQ3N9IBtgFBVV95cUxQQ2tRMkZramZoRWp4NkxETDNiSXpMTUV5czZ2VWJLVml3Y21yWmdkLXNra3JjOVZoODR4ZzRRZjhNamVlTDg2QzY1U3BLV1MtVTluMU11c2hFQUdGckswVmc2TmVMYk9EeXR6dklNcVE3eVZSRlZiMm9lcHN6MUREMU1lMkJpcHdYNEh1dE1qa0FsVDBidWxJc09tOTM4ZmkyUDk2ZVM3b3VOa1RFNk5FMVdQSlRhUQ?oc=5",
+   "source": "Diario Las Américas",
+   "lang": "es",
+   "published": "2026-10-20T15:53:00+00:00"
   },
   {
    "title": "IBM Ventures invierte en Leena AI para impulsar la inteligencia artificial agéntica en procesos de gestión interna",
@@ -64,363 +421,6 @@
    "source": "MarketScreener España",
    "lang": "es",
    "published": "2026-10-20T15:37:21+00:00"
-  },
-  {
-   "title": "Leroy Merlin incorpora inteligencia artificial a su estrategia de Atracción de Talento",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdHB2VEkzekR5T09zY3hLNFN1UXZDWTdtVG82V1VzS21MclBHZV82T0hvSXhoRlhPN1NwTHpnZ1R2QmJrdnA3cFFXMEc3TnpYMU1GMlVoQS1zQjU0SmlTQ3FkOWQzdUV2SVowaUp4b0ZCVkNwWE9NMGpGcVE4ZTJjSDNZY2g3Y3RFbTRaWFk4NDRpUUdXZjdYSHpPalh6SkZEQ2RvcnRXTXNiZUxmVUh3YjhySldGelFRWDZVVG9vemtnTVMyaVduOTlsd09uZXBmUmlXVzV3?oc=5",
-   "source": "Interempresas Media",
-   "lang": "es",
-   "published": "2026-10-20T15:33:45+00:00"
-  },
-  {
-   "title": "Show HN: TinyML AI – A New Architecture to Control Embedded Intelligence",
-   "url": "https://github.com/dib-artificial/pluto-flash",
-   "source": "Hacker News",
-   "lang": "en",
-   "published": "2026-10-20T15:33:09Z"
-  },
-  {
-   "title": "Jev models make agents faster. Hooked control planes steal the difference",
-   "url": "https://pentad.ai/PLRN/031/",
-   "source": "Hacker News",
-   "lang": "en",
-   "published": "2026-10-20T15:31:41Z"
-  },
-  {
-   "title": "Modern.ai: The Company Brain for Ecommerce",
-   "url": "https://www.modern.ai/",
-   "source": "Hacker News",
-   "lang": "en",
-   "published": "2026-10-20T15:31:33Z"
-  },
-  {
-   "title": "Localizely cut AI translation prices 3x, here's what it costs now",
-   "url": "https://twitter.com/localizely/status/2110335200672821530",
-   "source": "Hacker News",
-   "lang": "en",
-   "published": "2026-10-20T15:27:36Z"
-  },
-  {
-   "title": "Greg Brockman de OpenAI y Daniela Amodei de Anthropic: líderes tech menores de 40 años más ricos del mundo",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUXNXaUR6VXprYkdGQUFNQjVYSkNpZWNYOWdwdFM0OUNBY3IyRTd1SUsxT2lqaTdrcG5EbUpCZ1BLSDk3QWw1VkpjbWJkZVEzMzk4X3RqSVBVTTA1WG1CS0Z1d3k5Z1F2aTZsYVY4VmxLbnRYZkVKTXRWR2MzM1FZOV9RRG5zMFgxNldseF82RnpWQU9FVEt4WTRyZnA3cXpvRkVhcjVKYkpBbU05UmlTZnlJTTR0M2dPMDlMdUVmd3lsNXl5SmNfdmRUVkV3N2wxUUg1c3dleWdTdlF3QXFITtIB-wFBVV95cUxPM2RBVlFESXZlakpEUm9vSkdlWXpVeXlfaEc1YUVsUkxiZ0JSNFBPRFJPRDVMdjdZNEJzbDVITGJ6Y2lXaF9DVUgyRnltSnJpSVpNLUxQblJ6dzQySVlydmdzRkFac2cyV1VFWm5SRHF2SnozWUx0WWQzZXlVV1NDR0pmUkEwcHQ2V2FKYXRDMnpfNFk2czZhNXNRV3F1WVJwUDNwMHYyRkRDRnUxY2FERk9yYmZMSUh4Skk3VFRkT0czUWFwOFF6RG42NzdJTkpjM0RGY2Y5RG93Mmp2VG1zZ0xUaDRqbUhtSFNLT250ZXNITFdFemhid3dISQ?oc=5",
-   "source": "Infobae",
-   "lang": "es",
-   "published": "2026-10-20T15:20:22+00:00"
-  },
-  {
-   "title": "Women increasingly see AI for what it is: mansplaining on a global scale",
-   "url": "https://observer.co.uk/news/columnists/article/women-increasingly-see-ai-for-what-it-is-mansplaining-on-a-global-scale",
-   "source": "Hacker News",
-   "lang": "en",
-   "published": "2026-10-20T15:17:45Z"
-  },
-  {
-   "title": "Show HN: LongTerMemory, AI-RAG Study tool helping people to study everything",
-   "url": "https://longtermemory.com",
-   "source": "Hacker News",
-   "lang": "en",
-   "published": "2026-10-20T15:15:58Z"
-  },
-  {
-   "title": "Ask HN: Can LeetCode (or similar) keep critical thinking sharp in the AI era?",
-   "url": "https://news.ycombinator.com/item?id=50167633",
-   "source": "Hacker News",
-   "lang": "en",
-   "published": "2026-10-20T15:12:58Z"
-  },
-  {
-   "title": "Physical AI: la inteligencia artificial ahora tiene cuerpo",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVkktQ1ZrUDlQbjRQak1LYkVUYk9ReEFrcTdQMUF6VGRORjRpY3g1RGp3RENCWlZQb3NmcmtOYTdTVWhMTDJzZ1RMTnVLNEROcTlJVU5HZWZYcDRuel9vdUt6RkNua2JGNmN4OEstVDJtQ1FuX3A5ajNtYmVhbnFaLVRYT0VYdjcyTkxFclotOGF4SjFKaHhXYlNiQlJXcEZnaTl4VWxLX3FIQQ?oc=5",
-   "source": "NVI Noticias",
-   "lang": "es",
-   "published": "2026-10-20T15:10:19+00:00"
-  },
-  {
-   "title": "'Reverse-Engineer Anything' Is the New Wild West of AI",
-   "url": "https://www.404media.co/reverse-engineer-anything-is-the-new-wild-west-of-ai/",
-   "source": "Hacker News",
-   "lang": "en",
-   "published": "2026-10-20T15:10:01Z"
-  },
-  {
-   "title": "ChatGPT built its own search index",
-   "url": "https://peec.ai/blog/chatgpt-built-its-own-search-index",
-   "source": "Hacker News",
-   "lang": "en",
-   "published": "2026-10-20T15:09:43Z"
-  },
-  {
-   "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-   "url": "https://news.ycombinator.com/item?id=50167583",
-   "source": "Hacker News",
-   "lang": "en",
-   "published": "2026-10-20T15:09:29Z"
-  },
-  {
-   "title": "AI models self-replicating in smart ovens? \"These f[..]g clowns\"",
-   "url": "https://www.thestack.technology/these-f-clowns/",
-   "source": "Hacker News",
-   "lang": "en",
-   "published": "2026-10-20T15:07:56Z"
-  },
-  {
-   "title": "Exploring Structured Output in TanStack AI: Streaming Guide",
-   "url": "https://blog.master.dev/structured-output-with-tanstack-ai/",
-   "source": "Hacker News",
-   "lang": "en",
-   "published": "2026-10-20T15:04:36Z"
-  },
-  {
-   "title": "Developers Are Using AI to Strip Ads and Tracking from Smart TVs",
-   "url": "https://www.gadgetreview.com/developers-are-using-ai-to-strip-ads-and-tracking-from-smart-tvs",
-   "source": "Hacker News",
-   "lang": "en",
-   "published": "2026-10-20T15:03:19Z"
-  },
-  {
-   "title": "Quirky approach to monitoring agent teams: make a podcast",
-   "url": "https://claude.ai/artifact/FQvf7VZrmaGuYg3q43ChFE",
-   "source": "Hacker News",
-   "lang": "en",
-   "published": "2026-10-20T14:59:20Z"
-  },
-  {
-   "title": "Legálitas sitúa en notable alto su integración de la inteligencia artificial en la compañía",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vNUNVRHhna1VWZHZIOHJNQWR5Q3NSWXpub09Pb3lRUVkzMWl4TkRzQUs4QlFCSldYNGhSSE93SlpZVGJ6UFNDVFB0dzQ1c0NWaFRVLVhrTzRqb0ZWWmNzQg?oc=5",
-   "source": "Legálitas",
-   "lang": "es",
-   "published": "2026-10-20T14:56:55+00:00"
-  },
-  {
-   "title": "The Honest Raw LLM Code Review Benchmark: 21 Models, 7,980 Reviews",
-   "url": "https://ironbee.ai/blog/the-honest-raw-llm-code-review-benchmark",
-   "source": "Hacker News",
-   "lang": "en",
-   "published": "2026-10-20T14:56:36Z"
-  },
-  {
-   "title": "Unofficial Android app for Multica, the AI coding agent task board",
-   "url": "https://github.com/1270011/multica-android-unofficial",
-   "source": "Hacker News",
-   "lang": "en",
-   "published": "2026-10-20T14:54:52Z"
-  },
-  {
-   "title": "Las empresas están sumando agentes de IA más rápido de lo que pueden supervisarlos y medir si generan un retorno económico",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUkZwTHk4X0gta2Nnc25PT2MtcndBRVVZMTVoZDVvai14bS1FYzcyd09LbGhlOHQxOE44RlhuZ1pKbGMwMGxGZTlMTVJRTzJWT2hRN1Vaa1pZT3lFenBZSkZkUmlfckc0R2lNNWhmN0Z1bTJjRG1tZFJCM01Gano2M1M1YW1IY3lEMGpUYU9YUm56eGlVYkhldTFoZHN3RnVWREZFUWNFZlZHTkJmMUR0eGswNk1WSnIwOE56dTNPX0RPUHpFVVYtdzlRSktLZzNmOVhmemxEc2FmN3pXSEFHNVZxMjU1TmR5RVRqemFXcnduWjZCcWfSAZACQVVfeXFMUDZ4WW1OTGFkSFY0czE5NTdQVHdueXpTaWkwOFg4OFhBNXRna3pHRmdUb2plemZoRVN4Tk0weEFlMFNzeFZBNU56VDlseEtlNmN1Vlo2UjlfWmhrZlNHcWRpeXZxTmdKZ09SNjRUYXJSTnVBNWM1ZWZQdjlyUmRtWFRVOHhKa0t5NEczbUNQTUZzMmlWel9oTFJ5UkR3YlpxUFJpUEdyc2NzeWhmbWxSUXVwbTJndWg5bFpXYnV5aDVIbTBCd0ZiQmxYbV9teGp4RnpqV1Y4QWw5djRJVVBhNFJCOGQzaHl6LW5lNHJXeXJHYzk2ZnA0TnpVQ0VqM1JaTmJvQTFBWkg4bmlzQmZQckI?oc=5",
-   "source": "Infobae",
-   "lang": "es",
-   "published": "2026-10-20T14:54:04+00:00"
-  },
-  {
-   "title": "Ciberataques con inteligencia artificial: un hacker usó agentes de IA y US$ 5.000 para atacar más de 100 empresas",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVXFYVlY3X204LTB0TjBweERlb3ZfVWtjT2VGNFZ1Rkh1dXp3djN4Z1JkbkVTVDJTTy1Xdy10b0p5TXF1dnluVWd2dGJDd2twOXZfY0xNcUpjU2VIaEl6Z2ZRRHp1Y1RCZnY0dkJ4ODNfR1d5blZFNmotQldpVjhmZWNLRW9jZnhxdEpSWkFhTGhXQkZZU0tpb082VW9LX09ZSGxoZnJJVmN4MGRxNW53YWRtcVNJYmVXUzd0T1BlNTZWbVpIdXg4cDhya0lQbmhyUnV6M3M3ZzNId1I3ajE0?oc=5",
-   "source": "ITSitio",
-   "lang": "es",
-   "published": "2026-10-20T14:53:08+00:00"
-  },
-  {
-   "title": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
-   "url": "https://github.com/KatrielMoses/voidaccess",
-   "source": "Hacker News",
-   "lang": "en",
-   "published": "2026-10-20T14:49:33Z"
-  },
-  {
-   "title": "AI Debutant's Flameout Stokes Fears the Boom Is Ending",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-20/ai-debutant-s-flameout-stokes-fears-the-boom-is-ending",
-   "source": "Hacker News",
-   "lang": "en",
-   "published": "2026-10-20T14:49:32Z"
-  },
-  {
-   "title": "La inteligencia artificial puede alterar los recuerdos: qué revelan dos estudios sobre imágenes",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZWjV4MjBaSkVxZjE4cDY2R3dLVkdKZVppRGEwcmlIRDFIMUU5cDU3MmNNcGFzd2w4T0hfLTVMaVVUc25YMnZPLXpvcw?oc=5",
-   "source": "Agencia de Noticias Científicas de la UNQ",
-   "lang": "es",
-   "published": "2026-10-20T14:49:31+00:00"
-  },
-  {
-   "title": "Una inteligencia artificial descubrió que el rostro puede esconder señales de cuánto tiempo nos queda de vida. Y lo inquietante es dónde las encontró",
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQazFMc1g5RktvRzBBNUQzSjRSbWJQOEJCVTQtNnRTUHBaX2x5TVpNVlRoQmdvQXRSZTdNUzRLanB3OGRlNjNxMVJtVnVWT2Q1dVFUbmxyRkFDRGZWQlplUUg1dmxRNVQ1OGlLd0Q5WFRHRnJBUlJvQ1lzdnczNTdQRXUtZHo1U2NoQmxZaEhEWVprQTRuZGg0bHFSSndtUWp2VFZuTXZHVkVxRUVSNHBMMUtLSnNhVkQzOEtEWTFTdi1NeUctWE9FX0lydE9yelEtcW1LSmVaNE51UWpvNjZldmFGT285Z29HdlAxbTBxM0haYUhnMEpNRlVQMlRBY2pKYzdYdWFsUF9CNnNMUXFN?oc=5",
-   "source": "Gizmodo en Español",
-   "lang": "es",
-   "published": "2026-10-20T14:47:16+00:00"
-  },
-  {
-   "title": "Pixel Attack vuelve para \"abrir preguntas\" sobre la inteligencia artificial",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT0VGcmszNTBNSVRtcDFBQkxPNnU5T1R2cktWUmlNYklHV1dwc0VqWlJVNHZiRmRnekhPT19yZ0FTdXFlSDZHNl9xTmt3NFJVV19pQTJxMXhoTmxMc25pM1E2UmJPUTZOeEY0WnoyZWhDZS1pbFM2dVdIcEJ2UWRkbll2Y1RMektTLWZYM0tnNGlsRXZZSHVtNkdoU3JEVmdWajdNYWdfN19KN1ZqWVh4eU91RUNQeUFEOXdTTklKVUhHMEtybU4xNVZxNGVnem1DNnBoM2FXRWRHVHZKNVRmV0VB?oc=5",
-   "source": "Valencia Plaza",
-   "lang": "es",
-   "published": "2026-10-20T14:46:09+00:00"
-  },
-  {
-   "title": "Inteligencia Artificial: la prudencia no es de izquierda ni de derecha",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU0p0RXFuVTZnamVqd1I5U2MwYnZ2cm9FeVdTRmJUQ3NPaTR0MjJUUWtBOFJBem95bTFjQUE3V0hzekxacmhEYlVXOG5BWExhXzNMYVhKT2h4bGw5SFNQVkJxRkNUTW1Za1pkaGY1cERLTXh3TXVKRGhvR2dXZkFXWUE3YVd4ZU1IcHlTWUhvM3JYUWVJT19wWE5FLUcxNFlySG11MXhrZ3N5aXpnbWR3d1kwTVp1amxjWmc?oc=5",
-   "source": "La Nación",
-   "lang": "es",
-   "published": "2026-10-20T14:36:20+00:00"
-  },
-  {
-   "title": "Edificios inteligentes en América Latina: cómo transforman las ciudades",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTXl2bm5NMzZMMWdBQWYwektGZHdLRTVGX1JHZ0sxalRmSXFDdTVFTy1hZW54THdSS25McFB3RjVrNHZITHZlUDNhUVFCdW83LUkzbTA4eWZSZU5hUlFDWHdBMnVEYTczcEN3MUk2NzBPWXgteUIzSmRMTlg2ajEzelozR1F2Qm1PMnBBd214RTMwcHNQTzNLTmFqN09pN09XdTJ4ZllmSGRLeWVSRE5iZE5TOHM1ZjNVVW5SVUtFMVpmdEc2Z2pRbExIcVAzY05aVFBHOW5DRUhYY1M0NVRMSUNfUllTZw?oc=5",
-   "source": "La República",
-   "lang": "es",
-   "published": "2026-10-20T14:33:00+00:00"
-  },
-  {
-   "title": "EE.UU. prohíbe el uso de DeepSeek en agencias del gobierno y China llama a no “politizar la tecnología”",
-   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPbzB3OWsyaFFfV2UxZ1pBaU04ZUtyZEZ1MnRLUWZFWHNteEh4X2x3RWktbFlFdTVlS0VuUEpwUVg4SzBxOVYwSVQ1RnRiNk9NMkdkMXY4RVFfV2dXTTR6b0s2WnBQZDFCamVOT09XQ2xHOFByZTU3Z0tpeDZsV0xMdHc2b01TNmMzeS1GUk9qaTFkYTh1VmJQTVdVQzNoclZ6Q2pORmdId0QtNTRZUjM1WlJRY1RRRGZtajNFUTkwdEZtM1A5cXRWeTA5NDJGbmszWG9SMmhNeFdYVzBwSllQU0hpQlRwaDRSYXBxZldPUHVrOHp1ZEhMSHdYMG4tbkV0RjRyTGZ0UUZjS3BPSWU2XzVB0gGmAkFVX3lxTE9rTVp0MHdmbzJpTFp3emhrTWtrZTBNaDVuMHdKb1NzSjVIdlVRX3RjbWpGdklmNVR6ZFc2S21mYnNaSHo5dzNaVVNxNWNlNmVoZkFlSGVTRVNfd1lxX0E2cnh6SW5qdE5Kd1NqWDMzSGFiOTN6eWdTWGFSek5kV3hrVzUwTm12ang1NmVRYnZWYjVCR3gxbGhPZkltbUFmMEh4TlZpbWcydi1hNXhQVUJmYzRLLXN5TG1uQnhqZGZuZ1lrbnBKeXRBbV9IWHZ3MkJDRmtLMzFUdzR0YmFuLW9OSlRvVzZpWUdBU09wNURXaDdyd0VZdm91X3EyM2ZYaDlYLTE3MG9mZEJzeGdBbE14MDByYjAwSjNjZ3VQaWF2WWRCQ1pFdw?oc=5",
-   "source": "El Comercio Perú",
-   "lang": "es",
-   "published": "2026-10-20T14:30:31+00:00"
-  },
-  {
-   "title": "Temor por gasto en inteligencia artificial golpea acciones y el petróleo se dispara",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbi1RclUyY2xvZGdGMXRqa2VGbmRPcTFqaXRTRVhCMVF1ajAyU0RubXF1TWphTVdWSnYyUU9rbE5Yb0xpYk1oaXNpb0xUMXpZaE9Seno3a1ctY1ZoYTVpbWdpMm55SFdadmpVLUhzdmgwV216NVdqU2l6c3dKTHdnZkpYTEE3LTRHWnJwV2xSc3h4S093UVdMVmlXb1QwYXRSNVNxSnpfUW9OYThXcWlpc0tScEZMZUtJVE9ZWmMtRDlRamNBTFFCWkZyVlTSAcwBQVVfeXFMTUFxdWhUT1NaMlVmaUpfekNzb29LU2d3MEhaRHJhYzhsOE9SLXdudF9Wbms2ZDhkaDNhMHptSHVId09wekNWLWNOQ2s3RDJHdWdfYmowV1c3SmEwZlktdE9JUFh0OHE4QWJwVDZLaTNJYjl4dndJX1FxckdwQzZhTWFtRU5JSzJ3S3AtMHVlYlZTN1FiT2dfMVFUY2k5My03cEVieUI0U0pJMUZMVkx1YmVieUpwTkJDbDI4akVxWHBualJST2JVRTIxSEE3?oc=5",
-   "source": "LaRepublica.co",
-   "lang": "es",
-   "published": "2026-10-20T14:29:28+00:00"
-  },
-  {
-   "title": "Las bolsas asiáticas caen por las dudas sobre la inteligencia artificial y el repunte del petróleo",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMWl1XzZHanBDN3FSLXdJZkV0QTZLSi0wdzFfa1c0TG5TdG9ET3RKZ1hkVlFHNndrZXJPWElheVItM1AxUm5tTXBSSHhxUV81VUlKbTl4QUVPSkxZekVZNG9rZTZ2NzU4X3QxeTVCUVA2Z3pMb2ZucUlkakRGbzZRYm02QmVCVF9qdVNnRVBVemxqeFA5V1NkOXBJcjlSYlV3YXN5ZkxLYWVwUjJjR2taUTg5X0U2QnNCT0liRHZfdkhDTlpQbi1VZEJ0RmFHSENU?oc=5",
-   "source": "Bolsa Digital",
-   "lang": "es",
-   "published": "2026-10-20T14:27:46+00:00"
-  },
-  {
-   "title": "Suplemento Jurídica: ¿Tu empresa usa IA? Claves del gobierno corporativo para automatizar con responsabilidad",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOa2lBYlFvbmphZ1BWZnBLWXIyazBydWtYMVFqTktnU3hidGkzNzNwS3dzc2xIaVFKQ3V6LVlGYzJRUnNUQ2J0V0cwOWdFRWJHb3BPaHVzdUdyVFkzcGRGbVBMT1NfTDA2N2k5WUZzNC1USWVYaW5PWUc3enRXSVJZbDNfaVBsQW5jLVRBZU1PX3o0Uy1yU29ieHlHRktjZ2xFWlVvaG1lOGoxRElLODFaSm8ta2JhS0g1bEVWdE5DcFgyRWhwYkxhWVFnb1NtWmxkYjZra3FCRGlWem9pUHY0?oc=5",
-   "source": "El Peruano",
-   "lang": "es",
-   "published": "2026-10-20T14:11:00+00:00"
-  },
-  {
-   "title": "La Inteligencia Artificial genera una imagen de Melania Trump sin supuesta cirugía plástica",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcHlUa0M0TGUyNmxLRGZkX3pMbEJzUG50OG1tMlNhakEwRGxhZy1POXNZVmJQNDlVZFVoZnAzaHNIaXpBLUU2bmFPVmRKMlpfODc2WG44anRNbUota0xGbUFmQTg3RzlwVjlycVhCN1JTdWtramdrcnVEVUh2bmVFTGdrRHZra3NfOVpPa01tT05rUTQzS3FqZlE1NzA?oc=5",
-   "source": "Yahoo en Español Vida y Estilo",
-   "lang": "es",
-   "published": "2026-10-20T14:10:17+00:00"
-  },
-  {
-   "title": "Inteligencia artificial y big data desplazan al cambio climático en el ranking global de riesgos",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdWRQT1hsVVBsYy04ekdkVlM0czd6Mzh5QzVsVzB3RUdxYlBVOWFyWGNpaGNHOXBWRHEwWXVsZzZPYndIRWt4SlJOSjFsVXk5Zno0emE2MzRDWncyeTlKRTU1NndZTmxYYlFlVUEzcjcwbE5DVlFDRERZb2tsOEJ4M3FDYkZmQzBKMnE5OWdsb1laa0kxUFk1LUJLQUk5aUFoMnlQOXpJRXNPS3ZiSjlSdVRHVlZfa1ZGVDhnbXF4eEg1bmhZ?oc=5",
-   "source": "Valor Compartido",
-   "lang": "es",
-   "published": "2026-10-20T14:09:00+00:00"
-  },
-  {
-   "title": "Axelera AI reta a NVIDIA en inferencia de IA para el Edge",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNejU1a095U21OclVVUV9UN1JYYWs5TzRkMC1idFNobTNNWHQwNWVwMlNJMG1MenYtNFc0YUIzdVdSVVpjUEF5QVBMS280aEJHVVRIUHhJT2UyRlZSVm5PN0xKbXBEUDYzTEtvM0ZYWnR1NF9NaklybUd0TXdDQnhzS3F5SWRCTGpvVFZ2N0ZzaVRoYmZL?oc=5",
-   "source": "Infochannel",
-   "lang": "es",
-   "published": "2026-10-20T14:09:00+00:00"
-  },
-  {
-   "title": "Región Centro: debaten en Paraná el impacto de la inteligencia artificial en el empleo empresarial",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZC1DYk9Nb0FMYzBwakhHcHlZWmRZZnV0aWJVa3NyT1IwblcyRWp5Z2xvY1lhWF9qT1UtemR4TlM0TWN6cVEwSEY4aWoyaE5Za2pQdm9TSFh0WVBDQ2VGVndMSWFJQURrZXlUZTd3WFFxSmZxdHBhTENyU1c2djA2aDBYLTNxa0tNNjZIdzRwRGF2ZV9hdUhCaEhmYTQyRW9CTFlxT2p2UkZVbWJYUnN6ZjRLOS1ESmdVWHlVMnFnMlJ0YmFmZHcwSlR0LXJkb096LTdYVk5PYkE0cW8?oc=5",
-   "source": "Mirador Provincial",
-   "lang": "es",
-   "published": "2026-10-20T14:02:51+00:00"
-  },
-  {
-   "title": "De inteligencia artificial a sensores: las soluciones con las que jóvenes colombianos buscan resolver problemas reales",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRG1lSFVLR21iajdZNEdOUjUyZUREVi0tVjAzQUtKdnUwQjRINmlwMG8xa0VDZUJjSy1DOGprcUtVeUJWdXJzYThMcklkTk02OW1MY3FWNTlVdG1ZMzF6djNkaDRkaGs3Y0tVa1hYYWhIUmRyZGh3cGJPUkxEb0hEU0dYTkV3c0V4dWRkckQwbWFraVQ0MEhZUE9Ha25GWjVoTEF3UnozZmx0V3RzNkRsTXJRbTE4Vld6LWJWbEsyNjR6SEZ4WndOSlpMSnAzUjBsbHllNE5NdW1PY3ZRMzBWZQ?oc=5",
-   "source": "samsung.com",
-   "lang": "es",
-   "published": "2026-10-20T14:02:21+00:00"
-  },
-  {
-   "title": "Un centenar de enfermeras se reúnen en Donostia para explorar las aplicaciones y los límites de la inteligencia artificial en salud",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FZTdtcW1ISjczZVRTdkJfNDJpNmxRby1RY09CdXlBRDR3QWxYRDJqRHNsc2xNa3labDZHLUhNVTd2MlBpcHZXSFhEREs1Nk9Od0RBNVJfZ2FERlFTdEtxLWMwWmNwZGhfRjFVR1lpQWI?oc=5",
-   "source": "Diario Enfermero",
-   "lang": "es",
-   "published": "2026-10-20T13:56:48+00:00"
-  },
-  {
-   "title": "Bélgica: Dos empresas integran inteligencia artificial y control de calidad para reducir pérdidas en el procesamiento de papa",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQlpWVDViUlJQSWxYSFlzWUN1QkRVaXd1aHhJdHA1b1dqVVpvM3pIb0lsMlZ2WnhYSlFfZ3BES21pbzRpSUV3enN1WUlPOG1ydGdIMHpHT3hzQ0ZENEowSDM4eENxQnA5ekV5dlhoTHpvY0FFRmdoMU5wZUJzVWJCWXJpdDdVamltRTlnc2ZCN0lUempJNl9RS25Ec2JTT2R3VzFJV1JVcmVpUE1WT2RhT1JpZkowdERtV0lFZGpmUW52Wk1ZeHVmRlJISUluTV9HX2V4RjJTem9oQVNFV1paN0Q5ME1oWUV2WHhncU56aTB4THBRUFY2bnVSSQ?oc=5",
-   "source": "ARGENPAPA",
-   "lang": "es",
-   "published": "2026-10-20T13:53:48+00:00"
-  },
-  {
-   "title": "La inteligencia artificial está haciendo algo que parecía imposible: podría convertir a PlayStation y Xbox en las últimas grandes consolas de videojuegos",
-   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQUmIwR0dGZkFEaWFud05zWmdDdG85d2U4M1RFVnFFbmNiX2hwNDdzZ0tIMzlUb0FpcHdSNl9JU0ttUmNtaGFnRVVDQTJNenpwMHdFWjhfX2NqZGxEWkNQNzM2YTZUaFp0d2FsWlEySWlMX1FsbE96cFRXN25mdFJQaXc0eXNWUTNQWUpSN1RxZmRVX3FxX1VDbUZyQVNBQ3lkeUcxZG5ITVh2N2ZvNWh5MU51ajZ1WFV0aWNvNVNnNkdDR0V5Y0dPRnpHV3J1MDhvTXRZNHh0dWhEMlJaaEJkemozamlXYVlUWW1yX0FReEd4R3QyUE9acnR4RzF5bElQUDVFcUVIQTI1cHdSN3UzbG9PNzg?oc=5",
-   "source": "Gizmodo en Español",
-   "lang": "es",
-   "published": "2026-10-20T13:43:04+00:00"
-  },
-  {
-   "title": "Inteligencia artificial, sensores y logística inteligente: claves para integrar tecnología y sostenibilidad agrícola",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdktfTWg3QjZ4Zm5PRm56eWY0ZmF5OUdPbHhGM3B0T3JIcEVJUEFUZTctVjlIRW0tUTFLT2lyaFpndVlXakJQZTY3amQzd2wtM1NLVHlyUk5uMXlCcVpPenhPOEhuckhVT3V5T0swLWlIeThGZXdVVzF0blBDanR0UXViakQ5TkVnMGRBWllxT2FCNE9Ba2plNXdiWXFFSTRkTkZDWDBabFlPM3ZCTlk1aW1wZHZhX1k0bEVjWVJOeFpMV1cyellSVTVLd285NUc0aTZaR0xQMUF6bi0ySkhoQVNpYUxwSFhDU21abFp3?oc=5",
-   "source": "https://www.hortidaily.es/",
-   "lang": "es",
-   "published": "2026-10-20T13:36:00+00:00"
-  },
-  {
-   "title": "Wall Street abre a la baja ante la caída de los valores de inteligencia artificial y el repunte del petróleo",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObWo2cm1zTGgwY1o3T0RMUzl6WGFmT3ItVWxPeHNOMGxvaHNnMEN0em5CRmRvZS1DMzdDazJ5aXlqREhNd3pHcVI2ZUt0TXk1V1J0OTZnOW1Yb2dBTEFsMjhIMWxNNWs0eE1BMlZmdEhwQi02TFIxVmdNSW82Q2pWcHFuYkhqUHBHak5IYzlYeW1waTNKZHRmRC1LbXZuTDlQU201Y3lnZHFlclhCd3gzcVNJN1QwVFBvYjgzMVlQTUlObWM2c0FReTFwWkJpSmFub09ianBnOWdGWDRsNGVBZ3M3MlJLMFBOYVY4?oc=5",
-   "source": "MarketScreener España",
-   "lang": "es",
-   "published": "2026-10-20T13:34:36+00:00"
-  },
-  {
-   "title": "El valor de un dedo mocho: Agustín Tosco entre la inteligencia artificial, el conocimiento del pasado y la imaginación histórica",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc2w1WnpLRVYwX2w1aW91M0R5cGROTENKamloLVFLdnp6cnV0eHZqbjZXRTlVM0lkTDhTRDZzLUl0aTRMRE9TREw2UlVQZjBpaXJrb2haQXlfeEFGZWFMdzdHQllUYzU4ZjBzcW1WYnhpaFJyRTVjV3JFS0ZwMVdCNlVtNEtYRDYtWnRCVDI5dERZaEZFcllWYmN0RnVHd05NcmNhMlNmRkxRM2dNa0FlaFZnZ0xPTkJWU1o4NUYyemNSM2JjbFc0RFQ5Yw?oc=5",
-   "source": "La tinta",
-   "lang": "es",
-   "published": "2026-10-20T13:27:21+00:00"
-  },
-  {
-   "title": "Durante un siglo, invertir fue comprar máquinas. Ahora las empresas gastan casi lo mismo en nube, software e inteligencia artificial",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQmpfRThQcy1UMnFIYUtOd3FOTmM4WjE4a3BFSnlOdEdmMXFBbUR0bzdWVVBjdHJIQ3AyclZNWlVDUVhYUVNyMmVSQ3R5d3FqNWRleDZKUFFnZGlsMHhNV21ZX09xZEtCdjVYYTZUblpoSjVWbmxjQTE5Y3FNejhoWS1jTGVDTFZQYmZCUURjdDdIZXdtQ1RyT2lEbktBQVNYZ3NBblhiUFA2dWtPRFk4TFZLUG56RDI5TFJlYlRUZ3liVW1md0dLZEhRcjZGTDIwQVZnXzFsVUdTd0tqTVk2eEtJb25KZ0d6RUUtWE91YWpvUjVhTVE?oc=5",
-   "source": "Gizmodo en Español",
-   "lang": "es",
-   "published": "2026-10-20T13:22:20+00:00"
-  },
-  {
-   "title": "Carlos Solans: «La deflactación del IRPF resta poder adquisitivo y la inteligencia artificial cambiará las empresas»",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUmNJOVNFc2VQWFhjcHYzSkFSWUNyNU5XOFVNT0lhQnkwaDFJUGo0RDk5dXhxZjVBRWt1ZWNSV1JFQlJjN1R4U29hVmhRRkhTc3hRTm9VWExOZnM2dDdhcGdMRkw1Wi0yVFluamFCQ2ItbGlBOTZBLTZBcHpDdmRUUEZUUzlqV3ZCbU84bjdGSkJnTVZiRF9oeXB3RDBTTm5NWDFvMUlZeTFFVWtSWVplcFRlaU16QVF5Q3NaNG5WT0VtZHZyUE4zWWY0WFZwRmZheVF2QXNLQjlfdDdkVnNsOGNSZ2FkYXpaQjRjdXdvVnZDR3pacEROY2pReW5KSE5OcTZDaw?oc=5",
-   "source": "Magazine SLV",
-   "lang": "es",
-   "published": "2026-10-20T13:07:30+00:00"
-  },
-  {
-   "title": "El 71 % de los acuerdos entre medios y empresas de inteligencia artificial se concentra en medios anglófonos",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcjVPTkpOc3BtM1o5ekJfY0hNOFJMcTNyd3RmZUxZYzBmWkZYVTNYdzhIOGtiOUpTSXFpOUw0N0UxaXpUdnlYbG85MGpZenk3ZFhybDBMcmlvUkZQQ3ZfUi1PWldJQnJnaXhjSDZUb0lzZlh3cWRaTFNfcVhiMF90aHYyYU9XenZDWklfRzVaRlM0ZG1CMXZPZ2NOaUR0TUVJMFNDVnVDQkRKSkI0aGNhVFFpQU1hVGNzN3FDWWpOLXNnVVFsWmF1bFc1MFdfYS1RX1JYRFExMk11cjNYd05uTHJlTE12OVk?oc=5",
-   "source": "Asociación de Periodistas De Aragón",
-   "lang": "es",
-   "published": "2026-10-20T13:07:18+00:00"
-  },
-  {
-   "title": "Así se está utilizando la inteligencia artificial para desinformar sobre las protestas estudiantiles en Francia",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWDdZeGRjMmJZdm1Rb2hGTkRaMzJBVmRMVnpPREprdU5URVdZc0RQQ2dNN2xSZHhOYTNxa2tfNlZVOEczR1lfTlkySFpjMDNMN3hCNk5TLUw0UVNzUzlVZUVfRjJ5MEFxekl6ajhZcV9ReE5CeFNZc2dMdUcxYU1MenRGaVY5T0ZPTlZHRDQ4TnRKNkhoa18xS2ln?oc=5",
-   "source": "Maldita.es",
-   "lang": "es",
-   "published": "2026-10-20T12:52:58+00:00"
-  },
-  {
-   "title": "La Inteligencia Artificial permite pasar del análisis a la acción en las Estaciones de Servicio",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQU9MdGlzMTFsbVViVGhpNmU5a1Q5ZUozcVBXS0cyVXF5WTZfdGVSQVVLMEdvdmRaTTEzb25NUTRiUzRSWUpqdVlBbzVhcUZENFpTVy13cUdsUHhhOURwQ3FpTWhiejVJVHk2NHBraWo0M1hFN0d3OExmVF9Ic2RsdnJ3NmFfOGpLVkhMTl9GM3VUMW5GeG9mVWJUekkyQ2x1cS1wZA?oc=5",
-   "source": "Surtidores LATAM",
-   "lang": "es",
-   "published": "2026-10-20T12:47:15+00:00"
-  },
-  {
-   "title": "La inteligencia artificial plantea nuevos desafíos a las empresas",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNUpKek1pdVpNejV0cEV5RGV3Zjk2RFlFUU5DQzBia0hCYjR5bHNYaGFuQXBKZUdsWVVubUgtZ0pPRVVWd0JOMnhTQ1h5YjhTZVNPQ1lMdTM4eGVEMTI1NVZ0UEo3cTdhSkJ1cXdVSnpwbVpEdG1RanNsVk5kSUV2QnZKTlV6ck9kVDY3REpFOGNRd0dpYk1nSmpQT3Nwc1JIcmJBM3lGT1MyU01qQTNTUlFR?oc=5",
-   "source": "Agroempresario",
-   "lang": "es",
-   "published": "2026-10-20T12:42:22+00:00"
-  },
-  {
-   "title": "Estados Unidos prohíbe la inteligencia artificial china DeepSeek por riesgos de espionaje y seguridad nacional",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOa2trVXFmeUhIMW02dnF3RTRmYjREVzRDTnhPNU5USlBPVG9lVDdxTEh4eFVBVzFfcFBpX0FrdjE4eVFGNlI0clhsdjhIUFllUEZLV0QzMEtaOVc3R2hvVW1qYlZHMk15aVNMTlFfSERkclBNMFBncFpvVFBNaVA4OVJxOFFLNGlEd1VpSTFxRmU4RFBfbHRJenR1Znl1V2F6b0JXWXA3M2hNOGFXa2JyOThmNVk3bG1TbXJ0STBKOTBic3hTbGZmcTkxb2hFaTY0MmxpWTlIUHFmTXc4RDZseWhsR213b2hJeFM1dy1wajFpR0x0M0hlNFF1NA?oc=5",
-   "source": "https://inteligenciaargentina.ar/",
-   "lang": "es",
-   "published": "2026-10-20T12:37:59+00:00"
   }
  ]
 }
